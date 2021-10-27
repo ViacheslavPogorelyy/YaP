@@ -5,8 +5,7 @@ YandexP projects
 Каждый проект был проверен код-ревьюерами.
 
 Темы проектов: 
-[a link](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_one)
-* Part_number_one - Исследование клиентов Банка,
+* [Part_number_one - Исследование клиентов Банка](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_one),
 * Part_number_two - Исследование для Яндекс.Недвижимости,
 * Part_number_three - Исследование тарифов Телекома,
 * Part_number_four - Исследование рынка Игровых приставок, 
