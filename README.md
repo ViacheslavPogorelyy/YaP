@@ -5,15 +5,15 @@ YandexP projects
 Каждый проект был проверен код-ревьюерами.
 
 Темы проектов: 
-* [Part_number_one - Исследование клиентов Банка](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_one),
-* [Part_number_two - Исследование для Яндекс.Недвижимости](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_two),
-* [Part_number_two - Исследование для Яндекс.Недвижимости](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_three),
-* [Part_number_two - Исследование для Яндекс.Недвижимости](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_four), 
-* [Part_number_two - Исследование для Яндекс.Недвижимости](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_five),
-* [Part_number_two - Исследование для Яндекс.Недвижимости](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_six),
-* [Part_number_two - Исследование для Яндекс.Недвижимости](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_seven),
-* [Part_number_two - Исследование для Яндекс.Недвижимости](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_eight),
-* [Part_number_two - Исследование для Яндекс.Недвижимости](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_nine),
-* [Part_number_two - Исследование для Яндекс.Недвижимости](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_ten),
-* [Part_number_two - Исследование для Яндекс.Недвижимости](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_eleven),
-* [Part_number_two - Исследование для Яндекс.Недвижимости](https://github.com/ViacheslavPogorelyy/YaP/tree/main/Final_project).
+* [Исследование клиентов Банка](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_one),
+* [Исследование для Яндекс.Недвижимости](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_two),
+* [Исследование тарифов Телекома](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_three),
+* [Исследование рынка Игровых приставок](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_four), 
+* [Исследование Авиаперелетов](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_five),
+* [Исследование для Яндекс.Афиши](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_six),
+* [Исследование для Интернет-Магазина](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_seven),
+* [Исследование ресторанов Москвы](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_eight),
+* [Исследование Мобильного приложения](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_nine),
+* [Исследование для Яндекс.Дзена](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_ten),
+* [Исследование Фитнес-центров](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_eleven),
+* [Определение портрета клиентов, которые склонны уходить из Банка](https://github.com/ViacheslavPogorelyy/YaP/tree/main/Final_project).
