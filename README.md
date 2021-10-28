@@ -6,7 +6,7 @@ YandexP projects
 
 Темы проектов: 
 * [Исследование клиентов Банка](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_one)
-  Ключевые слова и библиотеки: `предобработка данных, лемматизация (pymystem3), сводные таблицы, pandas`,  
+  ~Ключевые слова и библиотеки:~ `предобработка данных, лемматизация (pymystem3), сводные таблицы, pandas`,  
   
 * [Исследование для Яндекс.Недвижимости](https://github.com/ViacheslavPogorelyy/YaP/tree/main/part_number_two)
  
